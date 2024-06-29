@@ -1,5 +1,6 @@
 # -
 Ασκήσεις ΕΚΠΑ για Μηχανική Μάθηση σε Κυβερνασφάλεια (Δεμερτζής-Τακεντζής)
+1.  ΜΑΘΗΜΑ: ΒΑΘΙΑ ΜΑΘΗΣΗ ΣΤΗΝ ΚΥΒΕΡΝΟΑΣΦΑΛΕΙΑ
 Ο ΦΑΚΕΛΟΣ Diabetes(4).ipynb μεταφορτώθηκε κατευθείαν και χωρίς τροποποιήσεις από τη σελίδα:https://github.com/kdemertzis/EKPA/blob/main/Diabetes.ipynb
 
 To τροποποιημένο notebook είναι το New_notebook_for_phishing.ipynb (απάντηση στην προτελευταία ερώτηση του τέστ για το μάθημα "ΒΑΘΙΑ ΜΑΘΗΣΗ ΣΤΗΝ ΚΥΒΕΡΝΟΑΣΦΑΛΕΙΑ")
@@ -14,4 +15,7 @@ Classifier  Accuracy  Precision    Recall  F1 Score
 1                     SVC  0.844000   0.871403  0.844000  0.840482
 4    KNeighborsClassifier  0.844000   0.845361  0.844000  0.843698
 0      LogisticRegression  0.815667   0.836090  0.815667  0.812153
+
+2.  ΜΑΘΗΜΑ: ΑΝΙΧΝΕΥΣΗ ΑΝΩΜΑΛΙΩΝ (ΕΠΙΛΥΣΗ ΕΡΓΑΣΤΗΡΙΑΚΗΣ ΑΣΚΗΣΗΣ)
+Ανέβασα το Anomaly_Detection.ipynb από το:https://github.com/kdemertzis/EKPA/blob/main/Anomaly_Detection.ipynb
 
